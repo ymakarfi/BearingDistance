@@ -19,3 +19,18 @@ This option allows a user to generate bearing and distance using a unique atrrib
 This option allows a user to generate bearing and distance using a unique atrribute of a feature and also generate the bearing and distance using a default numbering which starts from Point 1, Point 2, Point 3,...... and therfore does not require a point shapefile.
 
 ![by attributes without points](https://github.com/ymakarfi/BearingDistance/assets/115046088/e48e91ab-1513-4a9d-a647-9124b820a730)
+
+### B & D(Multiple Polygons_Without Points)
+This option requires users to select multiple polygons they intend to generate bearing and distance for. This option will generate the bearing and distance using a default numbering which starts from Point 1, Point 2, Point 3,...... and therfore does not require a point shapefile.
+
+![multiple without points](https://github.com/ymakarfi/BearingDistance/assets/115046088/d523daec-73c4-4d54-85b5-e128291f04c4)
+
+### B & D(Single & Multiple Polygons_Without Points)
+This option requires users to select a single polygon or multiple polygons they intend to generate bearing and distance for. This option will generate the bearing and distance using an existing point shapefile representing the beacons and its numbers.
+
+![single and multiple with points](https://github.com/ymakarfi/BearingDistance/assets/115046088/13314a2a-5630-4694-8493-b12530a9d6b3)
+
+### B & D(Single Polygon_Without Points)
+This option requires users to select a single polygon  they intend to generate bearing and distance for.This option will generate the bearing and distance using a default numbering which starts from Point 1, Point 2, Point 3,...... and therfore does not require a point shapefile.
+
+![single without points](https://github.com/ymakarfi/BearingDistance/assets/115046088/dd2a86e1-2edb-4539-8e37-be23f6d760ec)
