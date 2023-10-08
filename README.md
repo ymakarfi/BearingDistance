@@ -34,3 +34,6 @@ This option requires users to select a single polygon or multiple polygons they 
 This option requires users to select a single polygon  they intend to generate bearing and distance for.This option will generate the bearing and distance using a default numbering which starts from Point 1, Point 2, Point 3,...... and therfore does not require a point shapefile.
 
 ![single without points](https://github.com/ymakarfi/BearingDistance/assets/115046088/dd2a86e1-2edb-4539-8e37-be23f6d760ec)
+
+# Installation
+This plugin is only hosted here on github. If you desire to make use of it in QGIS then download the plugin folder a paste it in the plugin folder of your active profile folder.
